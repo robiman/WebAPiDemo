@@ -11,5 +11,9 @@ namespace consoledemo
         static void Main(string[] args)
         {
         }
+        public void message()
+        {
+
+        }
     }
 }
